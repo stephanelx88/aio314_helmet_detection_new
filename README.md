@@ -17,4 +17,5 @@ See this illustration
 ### Step 5: Run: python detect.py
 
 Example of the output:
+
 ![detected_img](https://github.com/stephanelx88/aio314_helmet_detection_new/assets/131633190/0435ccbd-6b3d-49fe-af85-8937971328d4)
