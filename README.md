@@ -2,11 +2,11 @@
 
 Steps to use this application:
 
-### Step 1: Clone source
+### Step 1: Clone source https://github.com/stephanelx88/aio314_helmet_detection_new.git
 
 ### Step 2: cd yolov10
 
-### Step 3: Select an image from Safety_Helmet_Dataset/test/images OR upload any image
+### Step 3: Select an image from **Safety_Helmet_Dataset/test/images** OR upload any image
 
 ### Step 4: Change the img_path with the path to the image you want to detect in step 3
 
